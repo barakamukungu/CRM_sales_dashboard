@@ -56,5 +56,10 @@ The dashboard includes visualizations for:
 ## Files
 
 crm_sales_dashboard.xlsx → Excel dashboard  
-images/ → dashboard screenshots
+
+![Pipeline Distribution](images/deal_stage_distribution.png)
+
+![Revenue by Product](images/revenue_by_product.png)
+
+![Revenue by Sales Agent](images/revenue_by_agent.png)
 
